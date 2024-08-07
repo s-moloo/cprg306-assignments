@@ -1,5 +1,4 @@
 "use client"
-
 import NewItem from './new-items';
 import ItemList from './item-list';
 import itemsData from './items.json';
